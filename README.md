@@ -12,6 +12,6 @@ Install require js
 
 Run grunt
 
-`$ grunt
+`$ grunt`
 
 Open the index.html and you will be alerted that it's working.
