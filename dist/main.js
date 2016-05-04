@@ -28,4 +28,4 @@ define(['exports', 'hello'], function (exports, _hello) {
 
     exports.default = Main;
 });
-
+//# sourceMappingURL=main.js.map
