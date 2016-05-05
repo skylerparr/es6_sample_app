@@ -1,5 +1,5 @@
 # es6_sample_app
-Sample application using babel and AMD to converto to es5.
+Sample application using babel and AMD to convert to es5.
 
 # How to run
 Get the dependencies
