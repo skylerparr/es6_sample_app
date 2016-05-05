@@ -2,6 +2,10 @@
 Sample application using babel and AMD to convert to es5.
 
 # How to run
+Install grunt-cli and bower globally
+
+`$npm install -g grunt-cli bower`
+
 Get the dependencies
 
 `$ npm install --save-dev grunt-babel babel-preset-es2015 babel-plugin-transform-es2015-modules-amd`
